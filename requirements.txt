@@ -1,0 +1,8 @@
+Django>=4.2,<5.0
+djangorestframework
+psycopg2-binary
+drf-spectacular
+djangorestframework-simplejwt
+flake8
+pytest-django
+pytest
